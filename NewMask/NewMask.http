@@ -1,0 +1,6 @@
+@NewMask_HostAddress = http://localhost:5076
+
+GET {{NewMask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
